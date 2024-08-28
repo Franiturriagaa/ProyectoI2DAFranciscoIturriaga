@@ -1,5 +1,4 @@
 # Proyecto Análisis de Datos
-# Francisco Iturriaga - Henry
 
 ![Portada](ImagenesREADME/Portadav2.png)
 
