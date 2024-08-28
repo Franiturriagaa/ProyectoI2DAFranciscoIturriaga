@@ -1,4 +1,5 @@
-# Proyecto_Analisis_de_Datos_Francisco_Iturriaga_para_Henry
+# Proyecto_Analisis_de_Datos_
+# Francisco_Iturriaga_para_Henry
 
 
 ## Descripcion
