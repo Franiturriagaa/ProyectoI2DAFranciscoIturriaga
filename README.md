@@ -1,4 +1,4 @@
-# Proyecto Análisis de Datos
+# Proyecto: Análisis de Datos
 
 ![Portada](ImagenesREADME/Portadav2.png)
 
