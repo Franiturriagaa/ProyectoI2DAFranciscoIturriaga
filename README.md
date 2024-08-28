@@ -21,3 +21,6 @@ Las tecnologías utilizadas son:
 El acceso a internet se ha convertido en un pilar fundamental para el desarrollo económico y social de Argentina. La conectividad no solo facilita la comunicación y el acceso a la información, sino que también es clave para la educación, la salud, y la economía digital. Sin embargo, la calidad y disponibilidad del servicio de internet varían considerablemente entre regiones, lo que hace necesario un análisis detallado para entender estas diferencias y su evolución en el tiempo.
 
 Este análisis exploratorio de datos (EDA) busca evaluar cómo han cambiado los patrones de uso, la velocidad de conexión, y otros indicadores clave del servicio de internet a nivel nacional entre 2014 y 2024. El objetivo es identificar tendencias y oportunidades para mejorar la infraestructura de telecomunicaciones en todo el país, proporcionando insights que puedan guiar tanto a los responsables de políticas como a las empresas del sector en sus decisiones para mejorar la conectividad en todas las provincias.
+
+## PD 28 08 2024
+Lamentablemente hasta aca es lo que me dio el tiempo para hacer, se que faltan cosas por completar, pero lo ire actualizando c:
